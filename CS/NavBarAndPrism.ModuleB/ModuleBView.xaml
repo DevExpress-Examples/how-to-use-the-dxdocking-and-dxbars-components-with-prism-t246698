@@ -1,0 +1,15 @@
+﻿<dxn:NavBarGroup x:Class="NavBarAndPrism.Views.ModuleBView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:dxn="http://schemas.devexpress.com/winfx/2008/xaml/navbar"
+             mc:Ignorable="d" 
+             Header="Module B">
+    <dxn:NavBarGroup.Items>
+        <dxn:NavBarItem Content="Module B Item 1"/>
+        <dxn:NavBarItem Content="Module B Item 2"/>
+        <dxn:NavBarItem Content="Module B Item 3"/>
+        <dxn:NavBarItem Content="Module B Item 4"/>
+    </dxn:NavBarGroup.Items>
+</dxn:NavBarGroup>
